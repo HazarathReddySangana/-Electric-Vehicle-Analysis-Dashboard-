@@ -16,7 +16,9 @@ Top 10 Total Vehicles by Model
      The report includes a filter panel that allows users to interactively filter the data by City           
       and Model Year.
  Background Color
-By using the PPT, I have created this and saved the picture. 
+By using the PPT, I have created this and saved the picture.
+
+<img width="1748" height="989" alt="Image" src="https://github.com/user-attachments/assets/070ce725-d4c3-4e17-9ee0-1586742c14b6" />
 
 Data Cleaning
 1. Data Preparation
@@ -54,5 +56,9 @@ PHEV = CALCULATE([Total Vehicles],Electric_Vehicle_Population_Data[Electric Vehi
 % of BEV = [BEV]/[Total Vehicles]
 % of PHEV = [PHEV]/[Total Vehicles]
 
+
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a09f89d3-7ba8-40f7-828b-0045c2395702" />
+<img width="4408" height="2523" alt="Image" src="https://github.com/user-attachments/assets/82671dd1-7bb7-44c8-ac10-fcfdb142b12c" />
 
 
